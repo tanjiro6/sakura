@@ -16,8 +16,8 @@
       "inline",
       "song-download"
     ],
-    "website": "https://github.com/Masterrockiei/Sona",
-    "repository": "https://github.com/Masterrockiei/Sona",
+    "website": "https://github.com/tanjiro6/sakura",
+    "repository": "https://github.com/tanjiro6/sakura",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",

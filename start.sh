@@ -4,7 +4,7 @@ then
   git clone https://github.com/tanjiro6/sakura /sakura
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /Sakura
+  git clone $UPSTREAM_REPO /sakura
 fi
 cd /sakura
 pip3 install -U -r requirements.txt
